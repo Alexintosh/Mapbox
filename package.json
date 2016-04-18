@@ -1,6 +1,6 @@
 {
   "version": "1.2.0",
-  "name": "cordova-plugin-mapbox",
+  "name": "cordova-plugin-mapbox-beta",
   "cordova_name": "Mapbox",
   "description": "Need native maps? Look no further!",
   "license": "MIT",
